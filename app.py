@@ -24,6 +24,7 @@ ALLOWED_ORIGINS = [
     "https://gabriel-oliveira27.github.io/AtivosZ",
     "https://gabriel-oliveira27.github.io/FuncZ",
     "http://localhost:5500",
+    "http://127.0.0.1:5500",
 ]
 
 app = Flask(__name__)
