@@ -23,6 +23,8 @@ GOOGLE_APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwXAIcu3bVQe-a
 ALLOWED_ORIGINS = [
     "https://gabriel-oliveira27.github.io/AtivosZ",
     "https://gabriel-oliveira27.github.io/FuncZ",
+    "https://gabriel-oliveira27.github.io/FuncZ/index.html"
+    "https://gabriel-oliveira27.github.io/FuncZ/pages"
     "http://localhost:5500",
     "http://127.0.0.1:5500",
 ]
